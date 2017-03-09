@@ -24,7 +24,7 @@
   "dependencies": {
     "immutable": "^3.8.1",
     "lodash.topath": "^4.5.2",
-    "react-router": "^4.0.0-beta.3"
+    "react-router": "^4.0.0-beta.8"
   },
   "peerDependencies": {
     "react": "^15.0.0",
